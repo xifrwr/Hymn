@@ -1,0 +1,1357 @@
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 400."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been created in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mBon Iver & St. Vincent - Roslyn (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Successfully paused the player"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Successfully resumed the player"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Successfully stopped the player"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Off My Face (Live from Paris)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Still playing"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - I Can't Be Myself (Visualizer) ft. Jaden Smith\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Still playing"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mSaixse - MALAMPAGI ( Official Lyric Video )\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Still playing"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been destroyed in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been created in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mTHE BEST AIRPOD PRO FAKES? NOISE CANCELLATION?  #shorts\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Successfully stopped the player"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34m♫ 1am ; late night korean r&b  [18 songs]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Still playing"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been destroyed in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND lavalink.clxud.dev."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unable to connect after 200 attempts.."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been created in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - 2 Much (Live from Paris)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Deserve You (Visualizer)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - As I Am (Visualizer) ft. Khalid\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Off My Face (Live from Paris)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Holy ft. Chance the Rapper (Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Unstable (Visualizer) ft. The Kid LAROI\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - MLK Interlude (Visualizer)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Die For You (Visualizer) ft. Dominic Fike\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Hold On\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Somebody (Live from Paris)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Ghost\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Peaches ft. Daniel Caesar, Giveon\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Love You Different (Visualizer) ft. BEAM\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Loved By You (Visualizer) ft. Burna Boy\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Anyone\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber & benny blanco - Lonely (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - There She Go (Visualizer) ft. Lil Uzi Vert\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - I Can't Be Myself (Visualizer) ft. Jaden Smith\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Lifetime\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Wish You Would (Visualizer) ft. Quavo\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Know No Better (Visualizer) ft. Da Baby\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Name (Visualizer) ft. Tori Kelly\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been destroyed in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been created in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - \"SWIM\" (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mI Wanna Be Yours\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34meaJ - Car Crash (Official Music Video, Starring Valkyrae & Kyedae from 100 Thieves)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34md4vd - Here With Me [Official Music Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mWhy'd You Only Call Me When You're High? || Arctic Monkeys Lyrics\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mPoo Bear - Hard 2 Face Reality (Audio) ft. Justin Bieber, Jay Electronica\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - HEAVEN AND BACK (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mYou & i (sped up) by Diego\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mGiveon - Lost Me (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - \"Right Here\" (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mSOLOMON - listen up (Radio Edit)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mSZA - Kill Bill (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mLykke Li - sex money feelings die (slowed version)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mTory Lanez - The Color Violet (Live) [Official Music Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - \"Into It\" (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mBurna Boy - Wild Dreams feat. Khalid [Official Audio]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mRealestK - One 4 U (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mEnchanted Waterfall\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - \"Church\" (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mSOLOMON - Thank You/Stan (Short Cover)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mKid Travis - Company (Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mRuss - 3:15 (Breathe) (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mSickick - Mind Games (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34meaJ x keshi - pillows\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mThe Neighbourhood - Sweater Weather (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mThe Neighbourhood - Softcore (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mGiveon - Scarred (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mPink Sweat$ - Midnight River (feat. 6lack) [Official Audio]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mblackbear - do re mi ft. Gucci Mane (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mGiveon - For Tonight (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mThe Neighbourhood - Daddy Issues (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mNic D - Fine Apple (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - WHAT U CALL THAT (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mRuss - Missin You Crazy (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34m505\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - \"Drugs & Money\" (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mMetro Boomin, The Weeknd, 21 Savage - Creepin' (Visualizer)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mChase Atlantic - OHMAMI (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been destroyed in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been created in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - 2 Much (Live from Paris)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Deserve You (Visualizer)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - As I Am (Visualizer) ft. Khalid\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Off My Face (Live from Paris)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Holy ft. Chance the Rapper (Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Unstable (Visualizer) ft. The Kid LAROI\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - MLK Interlude (Visualizer)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Die For You (Visualizer) ft. Dominic Fike\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Hold On\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Somebody (Live from Paris)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Ghost\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Peaches ft. Daniel Caesar, Giveon\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Love You Different (Visualizer) ft. BEAM\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Loved By You (Visualizer) ft. Burna Boy\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Anyone\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber & benny blanco - Lonely (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - There She Go (Visualizer) ft. Lil Uzi Vert\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - I Can't Be Myself (Visualizer) ft. Jaden Smith\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Lifetime\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Wish You Would (Visualizer) ft. Quavo\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Know No Better (Visualizer) ft. Da Baby\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mJustin Bieber - Name (Visualizer) ft. Tori Kelly\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | Track has been started playing [\u001b[34mPAYUNG TEDUH X YAMAHA LIVE AND LOUD - Angin Pujaan Hujan\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 941668314965495908 | A wild player has been destroyed in 𝐓𝐇𝐄 𝐎𝐆'𝐒 𝐂𝐑𝐈𝐁"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: cat"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: cat"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"warn","message":"warn: Unable to load Command: cat, File doesn't have an valid command with run function"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Hymn#9062"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
